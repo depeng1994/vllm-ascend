@@ -16,10 +16,7 @@ SMOKE_DEFAULTS = {
 SMOKE_PROFILES = {
     "dispatch_smoke": [
         "worker_os_blue",
-        # "worker_os_yellow",  # Enable when the Yellow worker is ready.
-        "dispatch_smoke_8p",
-        "dispatch_smoke_16p",
-        "dispatch_smoke_8p",
+        "worker_os_blue",
     ],
 }
 
