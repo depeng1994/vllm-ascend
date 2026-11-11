@@ -15,7 +15,7 @@ SMOKE_DEFAULTS = {
 
 SMOKE_PROFILES = {
     "dispatch_smoke": [
-        "worker_os_blue",
+        "dispatch_smoke_8p",
     ],
 }
 
